@@ -3115,7 +3115,7 @@ transition-duration: 0.2s;
 }
 
 #loading {
-	background:#fff url(//lh5.googleusercontent.com/-J8JqKqr8jiM/W2ZivzetskI/AAAAAAAApsw/iqLKl0mGVk0chgYVbQPIcDlLVVGkxiaaACK4BGAYYCw/s400/) no-repeat center center;
+	background:#fff url(//lh5.googleusercontent.com/-J8JqKqr8jiM/W2ZivzetskI/AAAAAAAApsw/iqLKl0mGVk0chgYVbQPIcDlLVVGkxiaaACK4BGAYYCw/s400/loader.gif) no-repeat center center;
 	width:100%;
 	height:30px;
 	width:80px;
@@ -3831,7 +3831,7 @@ left:0!important;
 }
 
 #infscr-loading {
-	background: #fff url(//lh5.googleusercontent.com/-J8JqKqr8jiM/W2ZivzetskI/AAAAAAAApsw/iqLKl0mGVk0chgYVbQPIcDlLVVGkxiaaACK4BGAYYCw/s400/) no-repeat center center;
+	background: #fff url(//lh5.googleusercontent.com/-J8JqKqr8jiM/W2ZivzetskI/AAAAAAAApsw/iqLKl0mGVk0chgYVbQPIcDlLVVGkxiaaACK4BGAYYCw/s400/loader.gif) no-repeat center center;
 	font-size: 0;
 	position: fixed;
 	height:30px;
